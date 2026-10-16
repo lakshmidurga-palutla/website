@@ -1,0 +1,2 @@
+Squash and Rebase practice
+Learning how to combine commits
